@@ -14,8 +14,8 @@
     ],
     "install" : [
     	{ 
-        "file" : "RemoteTech",
-	      "install_to" : "GameData" 
+        "find" : "RemoteTech",
+	"install_to" : "GameData" 
       } 
     ]
 }

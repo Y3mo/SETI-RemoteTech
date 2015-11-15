@@ -2,7 +2,7 @@
     "$kref" : "#/ckan/github/Y3mo/SETI-RemoteTech",
     "spec_version" : 1,
     "identifier": "SETI-RemoteTech",
-    "name": "Remote Tech - SETI Config",
+    "name": "RemoteTech - SETI Config",
     "abstract"     : "This is the SETI config for RemoteTech, adding ground stations, setting signal delay to false and tweaking colors.",
     "license"	: "GPL-2.0",
     "ksp_version"  : "1.0.5",

@@ -5,7 +5,7 @@
     "identifier": "SETI-RemoteTech",
     "abstract"     : "This is a SETI config for RemoteTech, adding ground stations, changing the KSC range to cover the whole kerbol system (when not obstructed), setting signal delay to false and tweaking some colors.",
     "license"	: "GPL-2.0",
-    "ksp_version"  : "1.0.5",
+    "ksp_version"  : "1.1.0",
     "resources": {
         "homepage": "http://forum.kerbalspaceprogram.com/threads/106130"
     },

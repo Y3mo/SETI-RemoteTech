@@ -14,7 +14,7 @@
     ],
     "install" : [
     	{ 
-        "find" : "RemoteTech",
+        "find" : "SETIremoteTechConfig",
 	"install_to" : "GameData" 
       } 
     ]

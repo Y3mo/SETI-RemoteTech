@@ -1,13 +1,13 @@
 {
-	"NAME":"SETI-RemoteTechConfig",
-	"URL":"http://ksp-avc.cybutek.net/version.php?id=234",
+	"NAME":"RemoteTech-GroundDSN",
+	"URL":"",
 	"DOWNLOAD":"",
 	"VERSION":
 	{
-		"MAJOR":1,
+		"MAJOR":0,
 		"MINOR":0,
-		"PATCH":8,
-		"BUILD":2
+		"PATCH":0,
+		"BUILD":1
 	},
 	"KSP_VERSION":
 	{

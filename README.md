@@ -1,6 +1,10 @@
 # RemoteTech Ground Deep Space Network
 
 
+This adds 10+ Ground Stations around Kerbin to create a Ground Based Deep Space Network
+
+
+
 Dependencies:
 
 Module Manager: http://forum.kerbalspaceprogram.com/index.php?/topic/50533-112-module-manager-2625-may-19th-where-the-singularity-started/
